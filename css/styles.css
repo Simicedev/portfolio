@@ -135,7 +135,7 @@ section{
 }
 
 .card-img-fixed {
-    height: 250px;
+    height: 350px;
     object-fit: cover;
     width: 100%;    
 }
@@ -150,3 +150,6 @@ section{
     max-width: 0px;
 }
 
+.p-lead{
+    padding-bottom: 2rem;
+}
