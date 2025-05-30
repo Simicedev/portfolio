@@ -13,12 +13,16 @@
     background: #3c31dd;
     color: white;
 }
-/* .red{
+ .red{
     background: #b11e11c4;
-} */
+}
 .dark{
     background: #0f0f10;
     color: white;
+}
+.light{
+    background: #f4f4f4;
+    color: black;
 }
 html{
     scroll-behavior: smooth;
@@ -125,5 +129,9 @@ section{
     gap: 80px;
 }
 
-
+.resources-row{
+    display: flex;
+    flex-direction: column;
+    max-width: 0px;
+}
 
