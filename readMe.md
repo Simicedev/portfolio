@@ -1,5 +1,4 @@
-<!-- Simon Portfolio -->
-<!--
+Simon Portfolio
 Github!
 https://github.com/Simicedev 
 
