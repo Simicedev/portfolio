@@ -1,3 +1,5 @@
+@import url('btn.css');
+
 *{
     margin: 0;
     padding: 0;
@@ -152,4 +154,40 @@ section{
 
 .p-lead{
     padding-bottom: 2rem;
+}
+.button{
+    flex: 1;
+    font-size: 1rem;
+    font-weight: 400;
+    padding: 0.6rem 1rem;
+    color: var(--text-color);
+    background-color: #1f62f1;
+    border: none;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: transform 0.3s;
+    
+}
+.button:hover{
+    transform: translateY(-5px);
+    background-color: #0b3184;
+
+}
+.button2{
+    flex: 1;
+    font-size: 1rem;
+    font-weight: 400;
+    padding: 0.6rem 1rem;
+    color: var(--text-color);
+    background-color: #0f0f10;
+    border: none;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: transform 0.3s;
+    
+}
+.button2:hover{
+    transform: translateY(-5px);
+    background-color: #0f0f10b3;
+
 }
