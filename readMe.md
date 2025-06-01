@@ -11,4 +11,3 @@ https://docs.google.com/document/d/1LnXMCURcwVm1byJC1N7VWrm0Kag0wPKcamRq4m1y8Tg/
 
 Netlify!
 https://simicedevportfolio.netlify.app/
-==================================================
